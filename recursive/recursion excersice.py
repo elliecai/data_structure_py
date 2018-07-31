@@ -31,6 +31,8 @@ intstr(124654,2)
 
 
 ####3. Write a Python program of recursion list sum.
+#https://anandology.com/python-practice-book/functional-programming.html
+
 
 [ [1, 2, [3, 4] ], [5, 6], 7]
 
